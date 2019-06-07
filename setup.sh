@@ -1,5 +1,6 @@
 #!/bin/bash
 # For emoji use this link --> https://unicode.org/emoji/charts/full-emoji-list.html#1f600
+# for reference https://github.com/jasonheecs/ubuntu-server-setup/blob/master/setupLibrary.sh
 echo -e  "\U0001f603 Starting to install the recommended utilities for ubuntu"
 
 #sudo apt update && sudo apt upgrade
