@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# To run the script, we need to install the script in the machine by following cmd: ./server_monitor.sh -i 
 # clear the screen
 clear
 
